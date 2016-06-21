@@ -1,5 +1,5 @@
 # Each new dir added should be added here via: make new sandbox=name
-SUBDIRS = print-stdout
+SUBDIRS = print-stdout jnz
 
 .PHONY: subdirs $(SUBDIRS)
 
